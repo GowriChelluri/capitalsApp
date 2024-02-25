@@ -1,0 +1,36 @@
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.card-container {
+  background-color: white;
+  height: 300px;
+  border-radius: 8px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  color: black;
+  font-size: 30px;
+  font-weight: 500;
+}
+.drop-down {
+  padding: 7px;
+  margin-right: 10px;
+  font-size: 15px;
+  color: black;
+  font-weight: 500;
+}
+.country {
+  font-size: 23px;
+  color: black;
+  font-weight: 600;
+}
